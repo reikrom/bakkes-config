@@ -1,0 +1,40 @@
+Special commands
+0|Open hoops freeplay|unreal_command "open Hoopsstadium_p?Game=TAGame.GameInfo_Tutorial_TA?FreePlay"
+0|Snowday freeplay|unreal_command "start stadium_winter_p?Game=TAGame.GameInfo_Tutorial_TA?GameTags=Ball_Puck,LowBounciness?Freeplay?"
+0|Dropshot practice game|unreal_command "start ShatterShot_P?Game=TAGame.GameInfo_Breakout_TA?GameTags=UnlimitedTime?Freeplay?"
+0|Rumble practice game| unreal_command "start park_p?Game=TAGame.GameInfo_Items_TA?GameTags=UnlimitedTime?Freeplay?"
+0|Open hoops freeplay|unreal_command "open Hoopsstadium_p?Game=TAGame.GameInfo_Tutorial_TA?FreePlay?GameTags=Ball_BasketBall"
+0|Open Heatseeker private match|unreal_command "start EuroStadium_P?game=TAGame.GameInfo_GodBall_TA?GameTags=Ball_God,FiveMinutes,BotsNone,UnlimitedBoost,PlayerCount17?NumPublicConnections=10?NumOpenPublicConnections=10?Lan?Listen"
+0|Zero G|toggle sv_soccar_gravity -1 -650
+0||
+0|BackBoard Reads|load_training 07E1-81BC-DD2E-BF8C
+0|BackBoard|load_training 18B2-38AF-FBD6-F190
+0||
+0|Ceiling|load_training AFC9-2CCC-95EC-D9D4
+0|Double Touches|load_training F034-3D8D-89DA-BA2F
+0||
+0|1s|load_training FC42-A3E1-A202-884A
+0|Ground Dribble|load_training BCCA-F2A0-966A-5F96
+0|Ground Shots|load_training 6EB1-79B2-33B8-681C
+0|Kuxir Pintch|load_training 0E99-5226-5F68-4804
+0||
+0|Passing - Downfield Left|load_training C833-6A35-A46A-7191
+0|Passing - Downfield Right|load_training 0590-9035-801A-E423
+0|Passing - Infield|load_training CDBB-8953-C052-654F
+0|backboard passes|load_training 3075-D01E-A839-8E65
+0||
+0|Parkour Map|load_workshop "821751580 Lobby_parcour_v1.udk"
+0|DMC Rings 1|load_workshop "1578331091 sjt1.udk"
+0|DMC Rings 2|load_workshop "1454827766 rings2.udk"
+0||
+0|Goalie|load_training 2E23-ABD5-20C6-DBD4
+0|Shadow Defense|load_training 5CCE-FB29-7B05-A0B1
+0|Wall Defense|load_training 1C1A-041C-862D-5F9C
+0|Musty's Speed Flip Kickoff|load_training A503-264C-A7EB-D282
+0||
+0|Torments Defensive backboard reads |load_training 9F09-E4D3-EAB0-69AD
+0|Jacob's Hard mode redirects |load_training AE39-F114-BE8D-A5BE
+0|The JRobinson's Wall and ground to Air Dribbles|load_training 9D87-258C-3C05-6FA9
+0|Fickle Platypus' Shots you shouldn t miss |load_training 42BF-686D-E047-574B
+0|FlabbyNostril's Self-set backboard consistency |load_training 23BC-0377-C228-A338
+0|The Ultimate Warmup|load_training FA24-B2B7-2E8E-193B
